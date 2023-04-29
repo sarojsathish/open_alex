@@ -1,2 +1,2 @@
 # open_alex
-[![pytest](https://img.shields.io/badge/pytest-passing-green.svg)](https://github.com/sarojsathish/<open_alex>)
+![pytest](https://github.com/sarojsathish/open_alex/actions/workflows/pytest.yml/badge.svg) <br>
