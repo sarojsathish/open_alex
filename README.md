@@ -3,4 +3,4 @@
 
 #### installation instructions:
 `!git clone https://github.com/sarojsathish/open_alex` <br>
-`!pip install open_alex/
+`!pip install open_alex`
