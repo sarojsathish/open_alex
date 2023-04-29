@@ -10,3 +10,4 @@ def test_bib():
     """
     req = Works("https://doi.org/10.1021/acscatal.5b00538")
     assert TITLE == req.new()
+    print("Test ran successfully")
