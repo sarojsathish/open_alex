@@ -4,7 +4,7 @@ Setup script for pkg package.
 
 from setuptools import setup
 
-setup(name='openalex',
+setup(name='open_alex',
       version='0.0.1',
       
       description='bibtex and ris utilities',
