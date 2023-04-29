@@ -8,7 +8,7 @@ def test_bib():
     """
     Tests to check working function in package.
     """
+    print("Test ran successfully")
     req = Works("https://doi.org/10.1021/acscatal.5b00538")
     assert TITLE == req.new()
-    zyx = "Test ran successfully"
-    return zyx
+   
